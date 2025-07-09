@@ -40,7 +40,7 @@
 		
 
 
-		## M1T2 : HTTPS: Overcomes the flaw of HTTP by encrypting all the communications. (https://)
+## M1T2 : HTTPS: Overcomes the flaw of HTTP by encrypting all the communications. (https://)
         	.
 					M1T2H1 : HTTPS Flow:
 						Image : https://academy.hackthebox.com/storage/modules/35/HTTPS_Flow.png
@@ -57,7 +57,7 @@
 		
 		
 
-		M1T3: HTTP Requests and Responses: In layman Termns - The client ( browser) sends the request 	and receive the response. Then the browser renders the Js/CSS/HTML.
+## M1T3: HTTP Requests and Responses: In layman Termns - The client ( browser) sends the request 	and receive the response. Then the browser renders the Js/CSS/HTML.
 
 
 					M1T3H1: HTTP Request
@@ -86,7 +86,8 @@
 					M1T3H4: Browser DevTools
 						Most modern web browsers come with built-in developer tools (DevTools), which are mainly intended for developers to test their web applications. However, as web penetration testers, these tools can be a vital asset in any web assessment we perform, as a browser (and its DevTools) are among the assets we are most likely to have in every web assessment exercise. In this module, we will also discuss how to utilize some of the basic browser devtools to assess and monitor different types of web requests.
 						
-		M1T4: HTTP Headers		
+## M1T4: HTTP Headers	
+
 				Headers can have one or multiple values, appended after the header name and separated by a colon. We can divide headers into the following categories:
 
 					1. General Headers
