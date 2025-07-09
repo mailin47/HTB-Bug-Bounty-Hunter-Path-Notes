@@ -1,11 +1,11 @@
-Hack The Box Bug Bounty Hunter Path Notes:
+#Hack The Box Bug Bounty Hunter Path Notes:
 
-# Module 1: WEB REQUESTS (Basics of the Basics)
+## Module 1: WEB REQUESTS (Basics of the Basics)
 
-		Module1Topic1 (M1T1): HTTP - an application-level protocol used to access WWW. HTTPS is the successor with an S(ecured).
+##		Module1Topic1 (M1T1): HTTP - an application-level protocol used to access WWW. HTTPS is the successor with an S(ecured).
 			Flaw: all communication is transferred in plain-text format
 
-					MT1H1: URL (structure) with example
+				###	MT1H1: URL (structure) with example
 
 							http://admin:password@example.com:80/dashboard.php?login=true#status
 
