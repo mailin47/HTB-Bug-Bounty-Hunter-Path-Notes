@@ -117,3 +117,32 @@
 			2. User-Agent : used to describe the client requesting resources
 			3. Referer	  : Denotes where the current request is coming from.
 			4. Accept	  : describes which media types the client can understand
+	
+ 	M1T4H4: Response Headers
+			1. Server			: Contains information about the HTTP server, which processed the request.
+			2. Set-Cookie		: Contains the cookies needed for client identification. 
+			3. WWW-Authenticate : Notifies the client about the type of authentication required to access the requested resource.
+						
+	M1T4H5: Security Headers
+					
+			1. Content-Security-Policy   : Dictates the website's policy towards externally injected resources. 
+   						       This header instructs the browser to accept resources only from certain trusted domains, hence preventing attacks such as Cross-site scripting (XSS).
+			2. Strict-Trasnport-Security : Prevents the browser from accessing the website over the plaintext. 
+   						       This prevents attackers from sniffing web traffic and accessing protected information such as passwords or other sensitive data.
+			3. Referrer-Policy           : Dictates whether the browser should include the value specified via the Referer header or not.
+   						       It can help in avoiding disclosing sensitive URLs and information while browsing the website.
+## M1T5: HTTP Methods and Codes
+	M1T5H1 : Request Methods: 
+			1. GET    : Requests a resource
+			2. POST   : Sends data to server
+			3. HEAD   : Requests the Headers that'd be returned if a GET request was made.
+			4. PUT    : Creates new resource on the server.
+			5. DELETE : Deletes and existing resource on the server.
+			6. OPTIONS: Reutrns information about the server
+			7. PATCH  : Applies partial modifications to the resource at the location.
+	M1T5H2 : Response Codes:
+			1xx : Provides information abd dies bit affect the processing of the request.
+			2xx : Returned when a request succeeds
+			3xx : Returned when the server redirects the client
+			4xx : Signifies improper requests "from the client".
+			5xx : Returned when there is some problem with the HTTP server.
