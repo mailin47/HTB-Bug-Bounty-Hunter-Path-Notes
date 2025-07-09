@@ -37,8 +37,8 @@
 			4. -A : specify the User-Agent
 		
 ## M1T2 : HTTPS: Overcomes the flaw of HTTP by encrypting all the communications. (https://)
-        	.
-	M1T2H1 : HTTPS Flow:
+
+### M1T2H1 : HTTPS Flow:
 		Image : https://academy.hackthebox.com/storage/modules/35/HTTPS_Flow.png
 
 		Steps: 
