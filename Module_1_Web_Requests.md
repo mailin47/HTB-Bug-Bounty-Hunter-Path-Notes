@@ -58,7 +58,7 @@
 		
 
 ## M1T3: HTTP Requests and Responses: 
-			In layman Termns - The client ( browser) sends the request and receive the response. Then the browser renders the Js/CSS/HTML.
+	In layman Termns - The client ( browser) sends the request and receive the response. Then the browser renders the Js/CSS/HTML.
 
 	M1T3H1: HTTP Request
 		Image: https://academy.hackthebox.com/storage/modules/35/raw_request.png
