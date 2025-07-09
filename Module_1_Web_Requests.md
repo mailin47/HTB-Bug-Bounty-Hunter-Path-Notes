@@ -1,4 +1,4 @@
-#Hack The Box Bug Bounty Hunter Path Notes:
+# Hack The Box Bug Bounty Hunter Path Notes:
 
 ## Module 1: WEB REQUESTS (Basics of the Basics)
 
